@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node server"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "axios": "^0.21.1",
